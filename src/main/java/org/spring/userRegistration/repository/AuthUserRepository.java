@@ -1,6 +1,6 @@
-package org.example.userregistration.repository;
+package org.spring.userRegistration.repository;
 
-import org.example.userregistration.model.AuthUser;
+import org.spring.userRegistration.model.AuthUser;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;

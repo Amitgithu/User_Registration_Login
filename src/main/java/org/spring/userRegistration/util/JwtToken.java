@@ -1,4 +1,4 @@
-package org.example.userregistration.util;
+package org.spring.userRegistration.util;
 
 import com.auth0.jwt.JWT;
 import com.auth0.jwt.JWTVerifier;

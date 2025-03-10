@@ -1,4 +1,4 @@
-package org.example.userregistration;
+package org.spring.userRegistration;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,13 +1,13 @@
-package org.example.userregistration.controller;
+package org.spring.userRegistration.controller;
 
 import jakarta.validation.Valid;
-import org.example.userregistration.dto.AuthUserDTO;
-import org.example.userregistration.dto.LoginDTO;
-import org.example.userregistration.dto.ResponseDTO;
-import org.example.userregistration.exception.UserException;
-import org.example.userregistration.model.AuthUser;
-import org.example.userregistration.service.EmailSenderService;
-import org.example.userregistration.service.IAuthenticationService;
+import org.spring.userRegistration.dto.AuthUserDTO;
+import org.spring.userRegistration.dto.LoginDTO;
+import org.spring.userRegistration.dto.ResponseDTO;
+import org.spring.userRegistration.exception.UserException;
+import org.spring.userRegistration.model.AuthUser;
+import org.spring.userRegistration.service.EmailSenderService;
+import org.spring.userRegistration.service.IAuthenticationService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

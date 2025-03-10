@@ -1,11 +1,11 @@
-package org.example.userregistration.service;
+package org.spring.userRegistration.service;
 
-import org.example.userregistration.util.JwtToken;
-import org.example.userregistration.exception.UserException;
-import org.example.userregistration.dto.AuthUserDTO;
-import org.example.userregistration.dto.LoginDTO;
-import org.example.userregistration.model.AuthUser;
-import org.example.userregistration.repository.AuthUserRepository;
+import org.spring.userRegistration.util.JwtToken;
+import org.spring.userRegistration.exception.UserException;
+import org.spring.userRegistration.dto.AuthUserDTO;
+import org.spring.userRegistration.dto.LoginDTO;
+import org.spring.userRegistration.model.AuthUser;
+import org.spring.userRegistration.repository.AuthUserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;

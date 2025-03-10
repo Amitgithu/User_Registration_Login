@@ -1,4 +1,4 @@
-package org.example.userregistration.dto;
+package org.spring.userRegistration.dto;
 
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotNull;

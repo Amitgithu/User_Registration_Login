@@ -1,4 +1,4 @@
-package org.example.userregistration.model;
+package org.spring.userRegistration.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
@@ -6,9 +6,8 @@ import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 import lombok.AllArgsConstructor;
 import lombok.Data;
-import lombok.Generated;
 import lombok.NoArgsConstructor;
-import org.example.userregistration.dto.AuthUserDTO;
+import org.spring.userRegistration.dto.AuthUserDTO;
 
 @Data
 @AllArgsConstructor
