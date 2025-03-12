@@ -1,4 +1,4 @@
-package org.example.userregistration.dto;
+package org.spring.userRegistration.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

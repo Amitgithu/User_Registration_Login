@@ -1,4 +1,4 @@
-package org.example.userregistration.exception;
+package org.spring.userRegistration.exception;
 
 import lombok.AllArgsConstructor;
 import org.springframework.http.HttpStatus;

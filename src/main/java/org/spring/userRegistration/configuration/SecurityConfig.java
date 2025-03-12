@@ -1,4 +1,4 @@
-package org.example.userregistration.configuration;
+package org.spring.userRegistration.configuration;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
